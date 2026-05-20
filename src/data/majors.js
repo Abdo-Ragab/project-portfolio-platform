@@ -1,0 +1,23 @@
+// src/data/majors.js
+export const majors = [
+  { id: "m1",  name: "Computer Science" },
+  { id: "m2",  name: "Computer Engineering" },
+  { id: "m3",  name: "Mechatronics Engineering" },
+  { id: "m4",  name: "Mechanical Engineering" },
+  { id: "m5",  name: "Materials Science & Engineering" },
+  { id: "m6",  name: "Electronics & Communications Engineering" },
+  { id: "m7",  name: "Media Engineering & Technology" },
+  { id: "m8",  name: "Information Engineering & Technology" },
+  { id: "m9",  name: "Business Administration" },
+  { id: "m10", name: "Business Informatics" },
+  { id: "m11", name: "Applied Arts & Sciences" },
+  { id: "m12", name: "Pharmacy" },
+  { id: "m13", name: "Biotechnology" },
+  { id: "m14", name: "Law" },
+  { id: "m15", name: "Political Science" },
+  { id: "m16", name: "Architecture & Urban Design" },
+  { id: "m17", name: "Aerospace Engineering" },
+  { id: "m18", name: "Digital Media Engineering" },
+  { id: "m19", name: "Biomedical Engineering" },
+  { id: "m20", name: "Economics and Political Science" },
+]
