@@ -230,3 +230,13 @@ Potential future improvements include:
 This project is licensed under the MIT License.
 
 ---
+
+## Authors
+
+Team Members
+
+- Abdelrahman Ragab
+- Khalid Hamdy
+- Mohamed Mahmoud
+- Abdelrahman Kaheel
+- Mariam Tahan
